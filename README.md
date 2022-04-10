@@ -1,1 +1,1 @@
-# Crypto_Analysis_Dashboard_OPEN
+# Crytpo-Analysis-OPEN-Dashboard
